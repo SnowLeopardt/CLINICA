@@ -1,0 +1,12 @@
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\bin\Release\CLINICA 1.exe.config
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\bin\Release\CLINICA 1.exe
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\bin\Release\CLINICA 1.pdb
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA_1.Login.resources
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA_1.Menu.resources
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA_1.Registro.resources
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA_1.HistoriaClinica.resources
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA_1.Properties.Resources.resources
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA 1.csproj.GenerateResource.cache
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA 1.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA 1.exe
+C:\Users\emili\OneDrive\Escritorio\CLINICA-master\obj\Release\CLINICA 1.pdb
